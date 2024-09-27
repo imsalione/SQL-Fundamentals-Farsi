@@ -58,6 +58,8 @@ This project is aimed at developing an automated reporting tool that facilitates
 
 This project offers a versatile and automated solution for generating database reports in structured formats. By leveraging popular Python libraries such as Pandas, SQLAlchemy, and Openpyxl, it simplifies the process of extracting, displaying, and exporting data from SQL Server databases. With the added ability to handle both Excel and CSV outputs, it provides a flexible tool for data analysis and reporting needs.
 
+</section>
+
 ***
 
 <section style="direction: rtl; text-align: justify; margin: 30px;">
