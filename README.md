@@ -1,7 +1,5 @@
 # SQL-Fundamentals-Farsi
 
----
-
 ### Project Overview (Updated)
 
 #### 1. **Database Connection**
